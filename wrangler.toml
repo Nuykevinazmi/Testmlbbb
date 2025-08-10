@@ -1,5 +1,5 @@
-name = "mlbb-worker-b"
-main = "index.js"
+name = "Testmlbbb"
+main = "worker.js"
 compatibility_date = "2025-08-10"
 
 kv_namespaces = [
