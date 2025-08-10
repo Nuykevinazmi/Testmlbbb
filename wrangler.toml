@@ -7,4 +7,5 @@ kv_namespaces = [
 ]
 
 [vars]
-SECRET_KEY = "ganti_dengan_secret_sama_dengan_worker_a"
+SECRET_KEY = "3f5a1b2c4d6e7f8091a2b3c4d5e6f708
+"
