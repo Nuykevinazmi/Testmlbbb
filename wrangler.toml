@@ -1,0 +1,10 @@
+name = "mlbb-worker-b"
+main = "index.js"
+compatibility_date = "2025-08-10"
+
+kv_namespaces = [
+  { binding = "PERMANENT_KV", id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" }
+]
+
+[vars]
+SECRET_KEY = "ganti_dengan_secret_sama_dengan_worker_a"
